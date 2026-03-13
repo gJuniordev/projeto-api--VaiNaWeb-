@@ -1,7 +1,8 @@
 # 📌 O que é necessário para concluir o projeto
 
-✅ - Rotas: Criar rotas organizadas para listar e cadastrar profissionais voluntários.
-✅ - Verbos HTTP:
+✅ Rotas: Criar rotas organizadas para listar e cadastrar profissionais voluntários.
+
+✅ Verbos HTTP:
 GET → para listar os profissionais cadastrados
 POST → para cadastrar um novo profissional
 
@@ -16,4 +17,5 @@ Telefone com 10 ou 11 números
 Mensagem com no máximo 500 caracteres
 
 ✅ Armazenamento em Memória: Utilizar um array em memória para armazenar os cadastros de profissionais.
+
 ✅ Postman: Testar todas as rotas utilizando o Postman, principalmente a rota POST para cadastrar novos profissionais.
