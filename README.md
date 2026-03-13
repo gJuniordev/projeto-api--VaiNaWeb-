@@ -1,7 +1,7 @@
 # 📌 O que é necessário para concluir o projeto
 
-✅ Rotas: Criar rotas organizadas para listar e cadastrar profissionais voluntários.
-✅ Verbos HTTP:
+✅ - Rotas: Criar rotas organizadas para listar e cadastrar profissionais voluntários.
+✅ - Verbos HTTP:
 GET → para listar os profissionais cadastrados
 POST → para cadastrar um novo profissional
 
